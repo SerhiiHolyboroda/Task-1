@@ -55,7 +55,7 @@ const divMaker = text => {
     butEd.addEventListener( 'click',function(){
 //        var key, obj = window.localStorage;
 //for(key in obj){
-//  console.log('Ошибка где-то до этой строки.');
+//  console.log('помилка.');
            
  
      let parent = document.querySelector('.div')
